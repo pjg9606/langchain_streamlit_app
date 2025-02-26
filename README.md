@@ -29,6 +29,11 @@ langchain-streamlit-app/
 │── README.md             # 프로젝트 문서
 ```
 
-## 기여
-기능 개선 및 버그 수정 PR을 환영합니다!
+## 기술 스택
+- **프로그래밍 언어:** Python 3.8+
+- **웹 프레임워크:** Streamlit
+- **AI 모델:** OpenAI API (GPT 기반)
+- **데이터 관리:** LangChain Memory
+- **검색 기능:** DuckDuckGo, Wikipedia API
+- **환경 변수 관리:** python-dotenv
 
