@@ -1,4 +1,4 @@
-mport os
+import os
 
 import streamlit as st  # Streamlit을 사용하여 웹 애플리케이션을 구축
 from dotenv import load_dotenv  # 환경 변수 로드를 위한 라이브러리
